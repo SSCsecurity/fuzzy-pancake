@@ -6,6 +6,8 @@ password :=   ""
 password        :=          "easypasswordceq"
 password := ''
 password := ``
+password        :=          easypasswordceq
+
 
 password :nil
 password: null
