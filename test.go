@@ -12,7 +12,7 @@ password        :=          easypasswordceq
 password :nil
 password: null
 password :   ""
-password        :          "easypasswordcolon"
+password        :          'easypasswordcolon'
 password : ''
 password : ``
 
@@ -20,7 +20,7 @@ password : ``
 password ==nil
 password== null
 password ==   ""
-password        ==          "easypassword2eq"
+password        ==          `easypassword2eq`
 password == ''
 password == ``
 
