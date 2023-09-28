@@ -2,10 +2,10 @@
 
 password :=nil
 password:= null
-password :=   ""
+password :=   "Null"
 password        :=          "easypasswordceq"
-password := ''
-password := ``
+password := 'nil'
+password := `nuLL`
 password        :=          easypasswordceq
 
 
